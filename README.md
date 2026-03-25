@@ -1,16 +1,52 @@
-## Hi there 👋
+## Olá, como vai? 👋
 
-<!--
-**SanttsFellype/SanttsFellype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Fellype**, sou estudante de **Engenharia da Computação** na Universidade do Vale do Paraíba.
 
-Here are some ideas to get you started:
+- 💻 Gosto de resolver problemas e aprender tecnologia na prática.
+- 🚀 Sempre tentando evoluir um pouco a cada dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+- 🎓 Estudando Engenharia da Computação  
+- 💡 Interesse em programação, tecnologia e desenvolvimento pessoal  
+- 📚 Atualmente aprendendo: Python  
+- 🎯 Objetivo: me tornar um desenvolvedor foda e viver do que eu amo
+
+---
+
+## 🛠️ Tecnologias que uso
+
+- 💻 Linguagem: Python   
+- ⚙️ Ferramentas: Git, GitHub, VS Code
+
+---
+
+## 🚀 Projetos
+
+Aqui estão alguns projetos que eu curto:
+
+- 🔗 [Nome do Projeto](link)
+- 🔗 [Outro Projeto](link)
+
+---
+
+## 📈 GitHub Stats
+
+![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=SanttsFellype&show_icons=true&theme=dark)
+
+---
+
+## 🎮 Curiosidades
+
+- 🎧 Gosto de música  
+- 🏋️ Curto treinar  
+- 📖 Estou tentando melhorar meus hábitos  
+- 🎯 Focado em evolução pessoal  
+
+---
+
+## 📫 Contato
+
+- 📧 Email: fellype20060706@gmail.com  
+- 📱 Instagram: @fellype_.santts
