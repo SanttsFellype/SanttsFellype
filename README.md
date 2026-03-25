@@ -24,7 +24,7 @@ Meu nome é **Fellype**, sou estudante de **Engenharia da Computação** na Univ
 
 ## 🚀 Projetos
 
-Aqui estão alguns projetos que eu curto:
+Aqui estão alguns projetos:
 
 - 🔗 [Nome do Projeto](link)
 - 🔗 [Outro Projeto](link)
