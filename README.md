@@ -28,6 +28,8 @@ Aqui estão alguns projetos:
 
 - 🔗 [Calculadora no terminal (Python)](https://github.com/SanttsFellype/calculadora-terminal-python.git)
 - 🔗 [Jogo da velha em Python](https://github.com/SanttsFellype/jogo-da-velha)
+- 🔗 [Gerador de senhas seguras](https://github.com/SanttsFellype/password-generator)
+- 🔗 [Jogo de adivinhação em Python](https://github.com/SanttsFellype/jogo-adivinhacao-python)
 
 ---
 
