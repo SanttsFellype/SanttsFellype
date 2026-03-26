@@ -27,7 +27,7 @@ Meu nome é **Fellype**, sou estudante de **Engenharia da Computação** na Univ
 Aqui estão alguns projetos:
 
 - 🔗 [Calculadora no terminal (Python)](https://github.com/SanttsFellype/calculadora-terminal-python.git)
-- 🔗 [Outro Projeto](link)
+- 🔗 [Jogo da velha em Python](https://github.com/SanttsFellype/jogo-da-velha)
 
 ---
 
