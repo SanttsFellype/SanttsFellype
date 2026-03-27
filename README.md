@@ -26,7 +26,7 @@ Meu nome é **Fellype**, sou estudante de **Engenharia da Computação** na Univ
 
 Aqui estão alguns projetos:
 
-- 🔗 [Calculadora no terminal (Python)](https://github.com/SanttsFellype/calculadora-terminal-python.git)
+- 🔗 [Calculadora gráfico (Python)](https://github.com/SanttsFellype/calculadora-grafica-python)
 - 🔗 [Jogo da velha em Python](https://github.com/SanttsFellype/jogo-da-velha)
 - 🔗 [Gerador de senhas seguras](https://github.com/SanttsFellype/password-generator)
 - 🔗 [Jogo de adivinhação em Python](https://github.com/SanttsFellype/jogo-adivinhacao-python)
